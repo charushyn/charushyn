@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [IT Poland community](https://web-portal.env.stage.it-community.io/)
 
-- 🌱 I’m currently learning **Golang, Node.js, MongoDB, PostgreSQL**
+- 🌱 I’m currently learning **Golang, Nest.js, PostgreSQL, Node.js**
 
 - 👨‍💻 All of my projects, articles, experience are available at [https://www.linkedin.com/in/charushyn/](https://www.linkedin.com/in/charushyn/)
 
